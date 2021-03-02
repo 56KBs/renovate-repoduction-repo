@@ -11,6 +11,7 @@ type environment struct {
 }
 
 func main() {
+	// #1
 	environment := environment{}
 	if err := env.Parse(&environment); err != nil {
 		fmt.Printf("%+v\n", err)
