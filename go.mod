@@ -1,4 +1,4 @@
-module github.com/56KBs/renovate-reproduction-repo
+module github.com/56KBs/renovate-reproduction-repo/v2
 
 go 1.16
 
